@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  stripe_customer_id: MyString
+  event: one
+  user: one
+  {index}: MyString
+
+two:
+  stripe_customer_id: MyString
+  event: two
+  user: two
+  {index}: MyString
